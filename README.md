@@ -1,2 +1,4 @@
 # NCWD-Day-7-Warmup
-Hello, goodbye fade
+Recreate this hello, goodbye fade!
+
+![DAY 7 WARMUP](7warmup.gif)
